@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url("img/background.png");
+}
+
+nav{
+  height: 45px;
+  background-color: #cc0000;
+  width: 700px;
+}
+
+footer{
+  width: 700px;
+  background-color: #4B4B4B;
+  text-align: center;
+}
+
+a, a:hover, a:visited{
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-left: 20px;
+  line-height: 40px;
+}
+
+label{
+  display: inline-block;
+  padding: 10px;
+  width: 350px;
+  font-size: 16px;
+}
+
+.container{
+  margin-left: 50px;
+}
+
+form {
+  background-color: white;
+  height: 450px;
+  width: 650px;
+}
+
+input[type=text] {
+  width: 250px;
+  text-align: left;
+}
+
+input[name=vraag1]{
+  position: fixed;
+  margin-top: 12px;
+}
+
+input[name=vraag5]{
+  position: fixed;
+  margin-top: 12px;
+}
+
+input[type=submit] {
+  margin-left: 370px;
+}
+
+h1{
+  background-color: white;
+  font-size: 25px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container{
+  margin-left: 100px;
+}
+
+.main{
+  background-color: white;
+  width: 700px;
+}
+
+h2{
+  background-color: white;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 0;
+  width: 680px;
+}
+
+p{
+  margin-left: 15px;
+}
+.text2{
+  background-color: white;
+  width: 650px;
+  height: 180px;
+}
